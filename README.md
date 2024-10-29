@@ -15,3 +15,6 @@ This repository contains projects and assignments for the CS4075 Concurrent and 
 
 - **Programming Languages**: Primarily C and C++ for low-level concurrency management.
 - **Libraries and Tools**: Pthreads, MPI (Message Passing Interface), and OpenMP.
+
+## License
+This repository is for educational purposes as part of the CS 4075 course at Cal State LA.
