@@ -16,5 +16,14 @@ This repository contains projects and assignments for the CS4075 Concurrent and 
 - **Programming Languages**: Primarily C and C++ for low-level concurrency management.
 - **Libraries and Tools**: Pthreads, MPI (Message Passing Interface), and OpenMP.
 
+## Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/b-tang/cs-4075-concurrent-and-distributed-prog.git
+   ```
+3. Build Instructions
+For each project, navigate to the respective directory and follow the README instructions for compilation and execution.
+
 ## License
 This repository is for educational purposes as part of the CS 4075 course at Cal State LA.
