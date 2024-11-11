@@ -5,8 +5,10 @@ This repository contains projects and assignments for the CS4075 Concurrent and 
 ## Key Concepts Covered
 - **Concurrency and Synchronization**
   - Techniques for achieving concurrency in programming, including threads, locks, and condition variables.
+
 - **Parallel Programming**
   - Using parallelism to improve computational efficiency, including implementations with Pthreads and OpenMP.
+  
 - **Distributed Systems**
   - Concepts like network communication, distributed storage, and consensus algorithms for reliable and scalable distributed applications.
 
