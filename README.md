@@ -1,5 +1,4 @@
 # CS 4075 - Concurrent and Distributed Programming
-### Overview
 This repository contains projects and assignments for the CS4075 Concurrent and Distributed Programming course. The projects explore the core concepts of concurrency, synchronization, and distributed systems, focusing on practical implementations of parallel algorithms, communication protocols, and resource management in multi-threaded and distributed environments.
 
 ## Key Concepts Covered
